@@ -1,4 +1,4 @@
-module github.com/wwzhenu/uap-go
+module github.com/ua-parser/uap-go
 
 go 1.21.8
 
